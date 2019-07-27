@@ -1,0 +1,23 @@
+{
+  "name": "wallet-server-goit",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cubagw/wallet-server-goit.git"
+  },
+  "keywords": [],
+  "author": "Dmytro Vitenko <cubagw84@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cubagw/wallet-server-goit/issues"
+  },
+  "homepage": "https://github.com/cubagw/wallet-server-goit#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
