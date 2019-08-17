@@ -1,0 +1,79 @@
+[
+  {
+    "id": 19112831,
+    "name": "Пицца Пепперони с томатами",
+    "description": "",
+    "price": "100",
+    "currency": "UAN",
+    "created": "21-07-2019",
+    "modified": "23-07-2019",
+    "categories": ["food"]
+  },
+  {
+    "id": 19112832,
+    "name": "Суши",
+    "description": "",
+    "price": "80",
+    "currency": "UAN",
+    "creatorId": 1,
+    "created": "20-07-2019",
+    "modified": "20-07-2019",
+    "categories": ["food"]
+  },
+  {
+    "id": 19112833,
+    "name": "Торт",
+    "description": "",
+    "price": "150",
+    "currency": "UAN",
+    "creatorId": 1,
+    "created": "24-07-2019",
+    "modified": "24-07-2019",
+    "categories": ["food"]
+  },
+  {
+    "id": 19112834,
+    "name": "Конфеты",
+    "description": "",
+    "price": "20",
+    "currency": "UAN",
+    "creatorId": 1,
+    "created": "25-07-2019",
+    "modified": "25-07-2019",
+    "categories": ["food"]
+  },
+  {
+    "id": 19112835,
+    "name": "Вода",
+    "description": "",
+    "price": "140",
+    "currency": "UAN",
+    "creatorId": 1,
+    "created": "25-07-2019",
+    "modified": "25-07-2019",
+    "categories": ["food"]
+  },
+  {
+    "id": 19112836,
+    "name": "фильтр",
+    "description": "",
+    "price": "20",
+    "currency": "UAN",
+    "creatorId": 1,
+    "created": "26-07-2019",
+    "modified": "26-07-2019",
+    "categories": ["staff"]
+  },
+
+  {
+    "id": 19112837,
+    "name": "Кросовки",
+    "description": "",
+    "price": "1000",
+    "currency": "UAN",
+    "creatorId": 1,
+    "created": "29-07-2019",
+    "modified": "29-07-2019",
+    "categories": ["clothes"]
+  }
+]
